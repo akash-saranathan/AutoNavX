@@ -1,0 +1,3 @@
+vgg16_car_navigation_model.h5
+X_train.npy
+X_val.npy
