@@ -50,7 +50,7 @@ Uncomment lines 68–72 in `Car_simulation_Testing.py` to select between using a
 - Conducted comparative analysis of neural network architectures for obstacle detection and control prediction, optimizing performance for safer vehicle navigation.
 
 ## Skills:
-depth Learning, Computer Vision, PyBullet, Autonomous Navigation, VGG-16, CNN, Model Optimization, Python 
+Deep Learning, Computer Vision, PyBullet, Autonomous Navigation, VGG-16, CNN, Python
  
 ## Summary:
 1. **Data Generation:** Run `Car_simulation_Data_generation.py` to generate data.
