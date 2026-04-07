@@ -1,0 +1,7 @@
+numpy
+tensorflow
+pybullet
+matplotlib
+opencv-python
+gym
+h5py
