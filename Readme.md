@@ -1,7 +1,7 @@
 # AutoNavX
 
 ## Introduction
-Autonomous Car Navigation System with Obstacle Avoidance. This repository contains the code for generating simulation data, training a model for car navigation, and testing the autonomous navigation system.
+AutoNavX is an autonomous car navigation system with obstacle avoidance. This repository includes code to generate simulation data, train deep learning models (CNN and VGG16), and test autonomous navigation in a simulated environment, demonstrating safe and efficient vehicle control.
 
 
 ## Project Highlights:
