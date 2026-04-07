@@ -9,7 +9,6 @@ Autonomous Car Navigation System with Obstacle Avoidance. This repository contai
 - Implemented VGG-16 to process images and control states, achieving 75.15% accuracy and reducing loss by 5%, outperforming baseline CNN results.
 - Conducted comparative analysis of neural network architectures for obstacle detection and control prediction, optimizing performance for safer vehicle navigation.
 
-- 
 ## Data Download
 To run inference with VGG16 or train from scratch, please download the weights and `npy` files from [this link](#).
 
